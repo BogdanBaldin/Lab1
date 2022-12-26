@@ -22,4 +22,3 @@ while (currentValue <= limit)
 
 System.Console.WriteLine("Количество нечетных чисел" + oddNumberCount);
 System.Console.WriteLine("Количество четных чисел" + evenNumberCount);
-Console.ReadLine();
