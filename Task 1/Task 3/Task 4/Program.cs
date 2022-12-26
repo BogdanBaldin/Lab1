@@ -20,6 +20,6 @@ while (currentValue <= limit)
     currentValue++;
 }
 
-System.Console.WriteLine("Количество нечетных чисел");
-System.Console.WriteLine("Количество четных чисел");
+System.Console.WriteLine("Количество нечетных чисел" + oddNumberCount);
+System.Console.WriteLine("Количество четных чисел" + evenNumberCount);
 Console.ReadLine();
