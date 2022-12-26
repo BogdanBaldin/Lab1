@@ -14,6 +14,7 @@
 for ( int i = 0; i < 3; i++)
 {
     number = Convert.ToInt32(Console.ReadLine());
+    if (number > max)
   {
         max = number;
   }
